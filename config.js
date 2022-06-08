@@ -19,7 +19,7 @@ global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user
 
 global.devx = 'false'
 
-global.owner = ["918113921898"]
+global.owner = ["918547584245"]
 global.APIs = { // API Prefix
 //======= name: 'https://website' ========//
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -71,7 +71,7 @@ function convertToBool(text, fault = 'true') {
 
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = 'neer_j_'
+global.bodlink = 'na.xd._'
 global.wait = '_Please Wait_'
 global.eror = '_Something went wrong please try again later_'
 global.dtu = 'BOT HELP GROUP'
