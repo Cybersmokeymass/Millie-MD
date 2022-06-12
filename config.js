@@ -43,22 +43,22 @@ global.APIKeys = { // APIKey Here
 
  
 global.ucpn = ''
-global.linkgc = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
-global.linkig = 'https://www.instagram.com/neer_j_  '
-global.linkyt = 'https://www.youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA'
-global.linkfb = 'https://fb.watch/aYv0jAffAO'
-global.git = 'https://github.com/Neeraj-x0'
+global.linkgc = 'https://chat.whatsapp.com/IKgHpTDKOrLHRwr6tnfz9L'
+global.linkig = 'https://www.instagram.com/najad__nxz '
+global.linkyt = 'https://www.youtube.com/channel/🦋'
+global.linkfb = 'https://fb.watch/'
+global.git = 'https://github.com/cybersmokeymass'
 global.web1 = 'https://neeraj-x0.github.io/'
 global.url = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
 
 //HEROKU  VARS
 global.thumburl = process.env.IMAGE || 'https://i.pinimg.com/474x/de/bd/b2/debdb24645169bf95eecd49f3144315f.jpg'
-global.packname = process.env.PACKNAME ||'ᴍɪʟʟɪᴇ-ᴍᴅ'
-global.author = process.env.AUTHOR ||'ɴᴇᴇʀᴀᴊ-x0'
+global.packname = process.env.PACKNAME ||'𝑵𝒂𝒋𝒂𝒎𝒘𝒐𝒍'
+global.author = process.env.AUTHOR ||'ɴᴀᴊad-x0'
 global.name = 'Millie MULTI-DEVICE'
 global.session = process.env.SESSION_ID|| ''
-global.wm = process.env.WATERMARK|| 'ᴍɪʟʟɪᴇ-ᴍᴅ'
-global.owner_name = process.env.OWNER_NAME || 'Neeraj-x0'
+global.wm = process.env.WATERMARK|| '𝑵𝒂𝒋𝒂𝒎𝒘𝒐𝒍'
+global.owner_name = process.env.OWNER_NAME || 'Najad-x0'
 global.logsmsg = convertToBool(process.env.LOGS)|| false
 
 function convertToBool(text, fault = 'true') {
