@@ -19,7 +19,7 @@ global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user
 
 global.devx = 'false'
 
-global.owner = ["918113921898"]
+global.owner = ["918547584245"]
 global.APIs = { // API Prefix
 //======= name: 'https://website' ========//
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -43,22 +43,39 @@ global.APIKeys = { // APIKey Here
 
  
 global.ucpn = ''
-global.linkgc = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
-global.linkig = 'https://www.instagram.com/neer_j_  '
-global.linkyt = 'https://www.youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA'
-global.linkfb = 'https://fb.watch/aYv0jAffAO'
-global.git = 'https://github.com/Neeraj-x0'
-global.web1 = 'https://neeraj-x0.github.io/'
-global.url = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
+global.linkgc = '╭───────────➤ 
+│  𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝘼𝙇𝙇
+
+˃ˋ*🌸ᙖᘜᙏ♡ᙅOᖇᑎᙓᖇシ︎*♡ ㅤ    
+
+*Thallppariyam ullavarkk keram 🙌*
+
+*⭕⚡️ഗ്രൂപ്പ് ഫꪶൾ ആക്റ്റꪻവ്  ആയ᭄ര᭄ക്കꪶ๏*
+
+*⭕🐓ക᭡ട്ടꪶ കോഴ᭄കളꪶടെ ꪶപϐത്യക ꪶശദ്ധൿ ꪶഗ്രꪆപ്പ᭄ൽ പെൺകꪶട്ട᭄കꪶട്ട᭄കളꪶണ്ട്  ഉണ്ട് ആരꪶ๏*
+
+*(PM) ഇൽ പോയ᭄ മെസ്സേജ് അയക്കരുത്*
+
+*𝘍𝘈𝘒𝘌 𝘕𝘜𝘔𝘉𝘌𝘙 𝘕𝘖𝘛 𝘈𝘓𝘓𝘖𝘞𝘌𝘋..🚫*
+
+𝙂𝙧𝙤𝙪𝙥 𝙡𝙞𝙣𝙠  ♡    ⎙ㅤ     ⌲ 
+
+https://chat.whatsapp.com/IKgHpTDKOrLHRwr6tnfz9L'
+global.linkig = 'https://www.instagram.com/najad__nxz  '
+global.linkyt = 'https://www.youtube.com/channel/'
+global.linkfb = 'https://fb.watch/a'
+global.git = 'https://github.com/cybesmokeymass'
+global.web1 = 'https://neeraj-x0.github/'
+global.url = 'https://chat.whatsapp.com/IKgHpTDKOrLHRwr6tnfz9L'
 
 //HEROKU  VARS
 global.thumburl = process.env.IMAGE || 'https://i.pinimg.com/474x/de/bd/b2/debdb24645169bf95eecd49f3144315f.jpg'
-global.packname = process.env.PACKNAME ||'ᴍɪʟʟɪᴇ-ᴍᴅ'
-global.author = process.env.AUTHOR ||'ɴᴇᴇʀᴀᴊ-x0'
+global.packname = process.env.PACKNAME ||'𝑵𝒂𝒋𝒂𝒎𝒘𝒐𝒍'
+global.author = process.env.AUTHOR ||'ɴᴀᴊad-x0'
 global.name = 'Millie MULTI-DEVICE'
 global.session = process.env.SESSION_ID|| ''
-global.wm = process.env.WATERMARK|| 'ᴍɪʟʟɪᴇ-ᴍᴅ'
-global.owner_name = process.env.OWNER_NAME || 'Neeraj-x0'
+global.wm = process.env.WATERMARK|| '𝑵𝒂𝒋𝒂𝒎𝒘𝒐𝒍...♥️🌺'
+global.owner_name = process.env.OWNER_NAME || 'Najad-x0'
 global.logsmsg = convertToBool(process.env.LOGS)|| false
 
 function convertToBool(text, fault = 'true') {
@@ -71,7 +88,7 @@ function convertToBool(text, fault = 'true') {
 
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = 'neer_j_'
+global.bodlink = 'najad_nxz'
 global.wait = '_Please Wait_'
 global.eror = '_Something went wrong please try again later_'
 global.dtu = 'BOT HELP GROUP'
